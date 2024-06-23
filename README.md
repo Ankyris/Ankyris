@@ -1,4 +1,5 @@
-![profile-image](path/to/your/image.png) <!-- Update the path to your image -->
+![profile-image](path/![githubProfile](https://github.com/Ankyris/Ankyris/assets/85355029/3e6296bd-de52-48e8-bb42-43c8db79065f)
+to/your/image.png) <!-- Update the path to your image -->
 
 # Hi there, I'm Aung Khant Kyaw! 👋
 
