@@ -4,8 +4,10 @@
 # Hey there, I'm Aung Khant Kyaw! 👋
 
 I am a dedicated and passionate 22-year-old software engineering student 🧑‍💻 with a strong foundation in both **front-end** and **back-end web development**.<br />
-Currently pursuing a Pearson Level 5 Higher Diploma in Computer Science at Lithan EduClassS University. <br/>
 My goal is to leverage my skills and knowledge to become a proficient full stack developer, capable of delivering robust and innovative web applications.
+ 
+## 🎓 Education
+Currently pursuing a Pearson Level 5 Higher Diploma in Computer Science at Lithan EduClassS University.
 
 ## ⭐ Skills
 
