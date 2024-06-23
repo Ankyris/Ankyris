@@ -1,7 +1,7 @@
-![githubProfile](https://github.com/Ankyris/Ankyris/assets/85355029/b9db6f85-dd5e-4002-9347-d75362ce2c05)
+![PenguinHelloGIF](https://github.com/Ankyris/Ankyris/assets/85355029/7b3cbf4c-32b8-49bf-b289-714c1879a248)![githubProfile](https://github.com/Ankyris/Ankyris/assets/85355029/b9db6f85-dd5e-4002-9347-d75362ce2c05)
 
 
-# Hi there, I'm Aung Khant Kyaw! 👋
+# Hey there, I'm Aung Khant Kyaw! 👋
 
 I am a dedicated and passionate 22-year-old software engineering student 🧑‍💻 with a strong foundation in both front-end and back-end web development. Currently pursuing a Pearson Level 5 Higher Diploma in Computer Science at Lithan EduClassS University. My goal is to leverage my skills and knowledge to become a proficient full stack developer, capable of delivering robust and innovative web applications.
 
