@@ -21,4 +21,4 @@ Currently pursuing a Pearson Level 5 Higher Diploma in Computer Science at Litha
 ## 📩 Contact Information 
 
 **Email:** aungkk1505@gmail.com  
-**GitHub:** https://github.com/Ankyris
+**Linkedin:** [www.linkedin.com/in/aung-khant-kyaw1505](https://www.linkedin.com/in/aung-khant-kyaw1505/)
